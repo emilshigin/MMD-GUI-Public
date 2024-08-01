@@ -24,7 +24,7 @@ Press "Device Scan" after pluging in a device to computer to get:
 * Installs Apks and Pushes files (Configured in the Settings page) 
 
 ### *Device Scan Button Demo:*  
-<img src="https://github.com/emilshigin/MMD-GUI/assets/71671062/e541daf6-b7ff-42ad-9b50-b1875b07b654" alt="GIF of pressing device scan and retreaving info from diffrent devices" width="600">
+<img src="https://github.com/user-attachments/assets/3f47916a-4329-434c-8f82-30020145fc3e" alt="GIF of pressing device scan and retreaving info from diffrent devices" width="600">
 
 At the start of the demo no devices was pluged in. \
 Between pressing "Device Scan" a new device was plugged in. 
