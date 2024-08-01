@@ -35,10 +35,10 @@ We end the demo by copying the device information into notepad.
 
 ## Settings Page 
 ### *Changing Start Up Page* 
-<img src="https://github.com/user-attachments/assets/13b1ad74-4309-415d-bba1-49e5f76c2fde" alt="GIF of how to changing stratup page in the settings options " width="600">
+<img src="https://github.com/user-attachments/assets/99e6762f-0c4a-45bf-a535-611c11a5f6ec" alt="GIF of how to set upload files " width="600">
 
 ### *Selecting Folder to Upload* 
-<img src="https://github.com/user-attachments/assets/99e6762f-0c4a-45bf-a535-611c11a5f6ec" alt="GIF of how to set upload files " width="600">
+<img src="https://github.com/user-attachments/assets/13b1ad74-4309-415d-bba1-49e5f76c2fde" alt="GIF of how to changing stratup page in the settings options " width="600">
 
 * When a selected file is not in the backup directory a copy is made
 * Select the device tabs to update what files are installed  
