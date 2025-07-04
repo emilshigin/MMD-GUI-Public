@@ -9,6 +9,8 @@
 * Python
 * TKinter
 * adb-shell[usb]
+* pyinstaller (Make an exe file)
+* Inno (Make an installer)
 
 # Demos And Features
 ## Production Page
